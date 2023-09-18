@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Restuarent-Project/static/css/main.17655c3c.css",
-    "main.js": "/Restuarent-Project/static/js/main.6ffa6c85.js",
+    "main.js": "/Restuarent-Project/static/js/main.fb53401e.js",
     "index.html": "/Restuarent-Project/index.html",
     "main.17655c3c.css.map": "/Restuarent-Project/static/css/main.17655c3c.css.map",
-    "main.6ffa6c85.js.map": "/Restuarent-Project/static/js/main.6ffa6c85.js.map"
+    "main.fb53401e.js.map": "/Restuarent-Project/static/js/main.fb53401e.js.map"
   },
   "entrypoints": [
     "static/css/main.17655c3c.css",
-    "static/js/main.6ffa6c85.js"
+    "static/js/main.fb53401e.js"
   ]
 }
